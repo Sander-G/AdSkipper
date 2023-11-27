@@ -8,7 +8,7 @@ javascript:(function() {
         if (video) {
           video.currentTime = video.duration;   //  video.playbackRate = 16; + video.mute;// also works
          if (skipButton) {
-          skipButton.click(); //click skip button when it appears
+          skipButton.click(); //click on skip button whenever it appears
          } else {
           console.log('skip button not found')
          }

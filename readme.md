@@ -21,4 +21,6 @@ v2. set playback pos to video length (end of add) + click 'skip ad' button if & 
 - Console (right click, inspect) should allow for pasting and/or activating through bookmarklet.
 - When the YouTube page is reloaded, the inserted javascript is flushed and ads should appear again.
 - Should work in chrome and safari / other browsers untested. 
-- (minified) snippets to add it as a bookmarklet / bookmark for easy activation convenience.
+- snippet to add it as a bookmarklet / bookmark for easy activation convenience.
+
+to do: fix skip button still appears / or doesn't get clicked.
