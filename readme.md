@@ -22,5 +22,6 @@ v2. set playback pos to video length (end of ad) + click 'skip ad' button if & w
 - When the YouTube page is reloaded, the inserted javascript is flushed and ads should appear again.
 - Should work in chrome and safari / other browsers untested. 
 - snippet to add it as a bookmarklet / bookmark for easy activation convenience.
+- minified version added.
 
 to do: - fix skip button still appears and / or doesn't get clicked.
